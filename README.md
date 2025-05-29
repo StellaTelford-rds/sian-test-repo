@@ -2,6 +2,6 @@
 
 Hello world!
 
-This is the new branch.
+This is Stella's new branch.
 
 Hello, this is Stella!
